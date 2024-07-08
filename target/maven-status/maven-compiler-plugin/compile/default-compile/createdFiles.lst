@@ -1,0 +1,4 @@
+me\testplugin\july\commands\duel.class
+me\testplugin\july\commands\accept.class
+me\testplugin\july\Plugin.class
+me\testplugin\july\utils\configmanager.class

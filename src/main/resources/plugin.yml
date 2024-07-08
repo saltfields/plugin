@@ -1,0 +1,10 @@
+name: plugin
+version: '${project.version}'
+main: me.testplugin.july.Plugin
+commands:
+  duel:
+    description: duels others
+    usage: /<command> <recipient>
+  accept:
+    description: accepts duels
+    usage: /<command> <recipient>

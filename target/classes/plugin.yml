@@ -1,0 +1,10 @@
+name: plugin
+version: '1.0-SNAPSHOT'
+main: me.testplugin.july.Plugin
+commands:
+  duel:
+    description: duels others
+    usage: /<command> <recipient>
+  accept:
+    description: accepts duels
+    usage: /<command> <recipient>
